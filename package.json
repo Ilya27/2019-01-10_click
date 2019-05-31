@@ -1,0 +1,19 @@
+{
+  "name": "click",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.a-level.com.ua:iluxan27/2019-01-10_click.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.4.0",
+    "jquery": "^3.3.1"
+  }
+}
